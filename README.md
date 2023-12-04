@@ -69,8 +69,8 @@ Embora tenha enfrentado dificuldades iniciais devido à relativa novidade do Nux
 ```
  git clone https://github.com/renangiaretta/teste-grupo-integrado.git
  cd backend-integrado
-```
  npm install
+```
 <br>
  Crie um banco de dados PostgreSQL e depois configure o arquivo .env
 ```
@@ -93,6 +93,7 @@ http://localhost:8000/
  git clone https://github.com/renangiaretta/teste-grupo-integrado.git
  cd frontend-integrado2
  npm install
+npm run dev
 ```
 ### O front-end estará rodando na porta 3000
 ```
